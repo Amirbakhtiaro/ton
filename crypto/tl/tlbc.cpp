@@ -1,4 +1,5 @@
-/* 
+test.tlb:1:23: error: variable `bn` used before being assigned to
+  tail#_ {bn:#} b:(bits bn) = SnakeData ~0;
     This file is part of TON Blockchain source code.
 
     TON Blockchain is free software; you can redistribute it and/or
